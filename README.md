@@ -1,5 +1,3 @@
-# Regression-Analysis-in-R
-
 # Project: What Determines Employee Salaries?
 
 **Authors**: Neeraj Namani 
